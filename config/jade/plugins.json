@@ -52,8 +52,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
@@ -64,6 +66,10 @@
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "toms_storage": {
+    "inventory_config": true,
+    "inventory_connector": true
   },
   "mysticalagradditions": {
     "infused_farmland": true

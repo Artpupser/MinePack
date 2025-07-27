@@ -65,5 +65,8 @@
   "mysticalagradditions:infused_farmland": null,
   "mysticalagriculture:crop": null,
   "mysticalagriculture:inferium_crop": null,
-  "mysticalagriculture:infused_farmland": null
+  "mysticalagriculture:infused_farmland": null,
+  "toms_storage:inventory_config": null,
+  "toms_storage:inventory_connector": null,
+  "treechop:plugin": null
 }
